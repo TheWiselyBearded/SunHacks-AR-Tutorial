@@ -5,9 +5,9 @@ This is a Unity tutorial on the forms of input available in mobile-device Augmen
 ---
 
 ## Please install the following before importing:
-* Unity 2018.x (https://unity3d.com/get-unity/download/archive)
-* iOS Build Support Tools (https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing)
-* Android Build Support Tools (https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing)
+* [Unity 2018.x](https://unity3d.com/get-unity/download/archive)
+* iOS [Build Support Tools](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing)
+* Android [Build Support Tools](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing)
 
 ## Once all tools are installed, please do the following:
 
