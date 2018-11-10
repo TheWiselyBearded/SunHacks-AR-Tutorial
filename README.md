@@ -3,6 +3,11 @@
 
 This is a Unity tutorial on the forms of input (Gaze, Tap, Movement) available in mobile-device Augmented Reality. This tutorial uses ARFoundation (built on top of ARKit & ARCore) as the framework for **cross platform AR.**
 
+## Please install the following before importing/beginning:
+* [Unity 2018.x](https://unity3d.com/get-unity/download/archive)
+* iOS [Build Support Tools](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing)
+* Android [Build Support Tools](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing)
+
 ##### The goal is to replicate this scene from Fast and Furious 7:
 
 ![Fast](assets/fast.gif)
@@ -13,11 +18,6 @@ This is a Unity tutorial on the forms of input (Gaze, Tap, Movement) available i
 
 ### _Pretty close wouldn't you say?_ :grinning:
 ---
-
-## Please install the following before importing:
-* [Unity 2018.x](https://unity3d.com/get-unity/download/archive)
-* iOS [Build Support Tools](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing)
-* Android [Build Support Tools](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing)
 
 ## Once all tools are installed, please do the following:
 
