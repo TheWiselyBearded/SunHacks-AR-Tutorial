@@ -1,8 +1,6 @@
 # SunHacks-AR-Tutorial
 ###### *Using Unity 2018.2 and ARFoundation 1.0*
 This is a Unity tutorial on the forms of input (Gaze, Tap, Movement) available in mobile-device Augmented Reality. This tutorial uses ARFoundation (built on top of ARKit & ARCore) as the framework for **cross platform AR.**
-
-![plane](https://media.giphy.com/media/ScCxKi2lbgJhSaL8gF/giphy.gif)
 ---
 
 ## Please install the following before importing:
