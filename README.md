@@ -26,8 +26,21 @@ _Responsible for instantiating a car prefab and launching it from location of Ai
 _Explosion particle system is downloaded from Unity [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351)._
 
 ## 3D Models for Tutorial downloaded via Google Poly. Models were created by Google:
-* Convertible Car (https://poly.google.com/view/dggOiBLYyuR)
-* Airplane (https://poly.google.com/view/8VysVKMXN2J)
+* [Convertible Car](https://poly.google.com/view/dggOiBLYyuR)
+* [Airplane](https://poly.google.com/view/8VysVKMXN2J)
 
 ## References:
-* ARFoundation (https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html)
+* [ARFoundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html)
+* [Unity API](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
+
+### Author
+
+**Alireza Bahremand**
+
+* [github/TheWiselyBearded](https://github.com/TheWiselyBearded)
+* [twitter/lirezaBahremand](https://twitter.com/lirezabahremand)
+
+### License
+
+Copyright © 2018, [Alireza Bahremand](https://github.com/TheWiselyBearded).
+Released under the [MIT license](LICENSE).
