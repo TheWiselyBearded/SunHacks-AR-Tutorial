@@ -18,7 +18,7 @@ This is a Unity tutorial on the forms of input available in mobile-device Augmen
 **Window>Package Manager**
 Install ARFoundation, ARCore XR Plugin, and ARKit XR Plugin.
 ![PackageManager](https://i.imgur.com/EreuVH4.gif)
-[Imgur](https://i.imgur.com/EreuVH4.gifv)
+![Imgur](https://i.imgur.com/EreuVH4.gifv)
 
 ## Scripts:
 * ### ARUserInputManager
