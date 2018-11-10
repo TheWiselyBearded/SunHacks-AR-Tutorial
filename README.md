@@ -17,7 +17,7 @@ This is a Unity tutorial on the forms of input available in mobile-device Augmen
 * ### Import AR Packages using Package Manager in Unity:
 **Window>Package Manager**
 Install ARFoundation, ARCore XR Plugin, and ARKit XR Plugin.
-![Imgur](https://i.imgur.com/7yPZN8g.gifv)
+![PackageManager](https://i.imgur.com/7yPZN8gl.gif)
 
 ## Scripts:
 * ### ARUserInputManager
