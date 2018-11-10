@@ -34,7 +34,6 @@ _Explosion particle system is downloaded from Unity [Standard Assets](https://as
 * [Unity API](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
 
 ### Author:
-###### **Alireza Bahremand**
 * [github/TheWiselyBearded](https://github.com/TheWiselyBearded)
 * [twitter/lirezaBahremand](https://twitter.com/lirezabahremand)
 
