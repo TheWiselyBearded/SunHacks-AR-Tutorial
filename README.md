@@ -31,6 +31,7 @@ _Explosion particle system is downloaded from Unity [Standard Assets](https://as
 
 ## References:
 * [ARFoundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html)
+* [ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
 * [Unity API](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
 
 ### Author:
