@@ -12,7 +12,9 @@ This is a Unity tutorial on the forms of input available in mobile-device Augmen
 ## Once all tools are installed, please do the following:
 
 * ### Switch Build Platform (**File>Build Settings**) to iOS/Android.
+![SwitchBuild](https://i.imgur.com/tX7JCohm.png)
 * ### Import package included in this repo (**Assets>Import Package>Custom Package, Select Package from Repo**)
+![ImportPackage](https://i.imgur.com/M0B52zym.png)
 ---
 * ### Import AR Packages using Package Manager in Unity:
 **Window>Package Manager**
