@@ -1,6 +1,10 @@
 # SunHacks-AR-Tutorial
 ###### *Using Unity 2018.2 and ARFoundation 1.0*
+
 This is a Unity tutorial on the forms of input (Gaze, Tap, Movement) available in mobile-device Augmented Reality. This tutorial uses ARFoundation (built on top of ARKit & ARCore) as the framework for **cross platform AR.**
+
+##### The aim is to create a plane that is controlled by gaze movement & physical movement. Tapping launches car's out of the plane, holding causes the plane to rotate.
+
 ![Airplane](assets/planeAR.gif)
 ---
 
