@@ -1,7 +1,7 @@
 # SunHacks-AR-Tutorial
 ###### *Using Unity 2018.2 and ARFoundation 1.0*
-This is a Unity tutorial on the forms of input available in mobile-device Augmented Reality. This tutorial uses ARFoundation (built on top of ARKit & ARCore) as the framework for **cross platform AR.**
-
+This is a Unity tutorial on the forms of input (Gaze, Tap, Movement) available in mobile-device Augmented Reality. This tutorial uses ARFoundation (built on top of ARKit & ARCore) as the framework for **cross platform AR.**
+![Airplane](https://i.imgur.com/jFqGuQgl.gif)
 ---
 
 ## Please install the following before importing:
@@ -12,10 +12,17 @@ This is a Unity tutorial on the forms of input available in mobile-device Augmen
 ## Once all tools are installed, please do the following:
 
 * ### Switch Build Platform (**File>Build Settings**) to iOS/Android.
+![SwitchBuild](https://i.imgur.com/tX7JCohm.png)
 * ### Import package included in this repo (**Assets>Import Package>Custom Package, Select Package from Repo**)
+![ImportPackage](https://i.imgur.com/M0B52zym.png)
 ---
 * ### Import AR Packages using Package Manager in Unity:
-![Features](https://i.imgur.com/FLGv2qX.gif)
+**Window>Package Manager**
+Install ARFoundation, ARCore XR Plugin, and ARKit XR Plugin.
+![PackageManager](https://i.imgur.com/7yPZN8gl.gif)
+
+* ### Enable Unsafe Code (using frameworks in pre-release):
+![Unsafe](https://i.imgur.com/2sdAXHRl.png)
 
 ## Scripts:
 * ### ARUserInputManager
