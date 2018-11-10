@@ -18,9 +18,9 @@ This is a Unity tutorial on the forms of input available in mobile-device Augmen
 ![Features](https://i.imgur.com/FLGv2qX.gif)
 
 ## Scripts:
-* #### ARUserInputManager
+* ### ARUserInputManager
 _Responsible for determining user gaze, and checking for a touch-hold gesture._
-* #### DropCar
+* ### DropCar
 _Responsible for instantiating a car prefab and launching it from location of AirPlane/User Gaze. Additionally instantiates a Explosion [Particle System](https://docs.unity3d.com/Manual/ParticleSystems.html)_
 
 _Explosion particle system is downloaded from Unity [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351)._
