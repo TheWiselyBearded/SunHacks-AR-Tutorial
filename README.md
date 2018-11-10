@@ -12,7 +12,7 @@ This is a Unity tutorial on the forms of input (Gaze, Tap, Movement) available i
 
 ![Fast](assets/fast.gif)
 
-##### The aim is to create a plane that is controlled by gaze movement & physical movement. Tapping launches car's out of the plane, holding causes the plane to rotate.
+##### The intent is to create a plane that is controlled by gaze movement & physical movement. Tapping launches car's out of the plane, holding causes the plane to rotate.
 
 ![Airplane](assets/planeAR.gif)
 
